@@ -70,7 +70,7 @@
     <p>No necesitas moverte. Solo dinos qué tienes y pasamos a recogerlo.</p>
   </section> <section id="contacto">
     <h2>Contacto</h2>
-    <p><strong>Teléfono:</strong> 692 86 73 24</p>
+    <p><strong>Teléfono:</strong> 692 86 73 24 o 611 87 38 70  </p>
     <p><strong>Correo:</strong> compramostuchatarra.es@gmail.com</p>
   </section> <footer>
     <p>Servicio ofrecido por José Giménez.</p>
