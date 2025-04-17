@@ -66,14 +66,14 @@
     </ul>
   </section> <section id="comoFunciona">
     <h2>¿Cómo funciona?</h2>
-    <p>Llámanos o mándanos un correo. Vamos a donde estés con nuestra furgoneta, cargamos y te pagamos al momento. Así de fácil.</p>
-    <p>No necesitas moverte ni tener papeleo. Solo dinos qué tienes y pasamos a recogerlo.</p>
+    <p>Llámanos o mándanos un correo. Vamos a donde estés, cargamos y te pagamos al momento. Así de fácil.</p>
+    <p>No necesitas moverte. Solo dinos qué tienes y pasamos a recogerlo.</p>
   </section> <section id="contacto">
     <h2>Contacto</h2>
     <p><strong>Teléfono:</strong> 692 86 73 24</p>
     <p><strong>Correo:</strong> compramostuchatarra.es@gmail.com</p>
   </section> <footer>
-    <p>Servicio ofrecido por José Giménez Fernández. Web creada con el poder del ingenio gitano.</p>
+    <p>Servicio ofrecido por José Giménez.</p>
   </footer>
 </body>
 </html>
